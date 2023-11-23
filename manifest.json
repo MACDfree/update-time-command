@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "update-time-command",
+	"name": "Update time command",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "提供更新Markdown文件修改时间的命令",
+	"author": "macd",
+	"authorUrl": "https://www.macdfree.cc",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
